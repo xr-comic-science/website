@@ -1,0 +1,96 @@
+.box, .yellow {
+    vertical-align: top;
+    background: #fff999;
+    padding: 6px 1em;
+    box-sizing: border-box;
+    margin-bottom: 4em!important;
+    overflow: hidden;
+    position: relative;
+}
+
+.header {
+    position: relative;
+}
+
+h1 {
+    clear: both;
+}
+
+.comsci-intro {
+    margin-bottom: 3em;
+}
+
+.comsci-intro p {
+    font-size: 24px;
+    line-height: 1.3;
+}
+
+.postcards-banner {
+    font-family: Fucxed;
+    text-transform: uppercase;
+    text-decoration: none;
+    pointer-events: all;
+    font-size: 27px;
+    padding: 5px;
+    display: block;
+    position: absolute;
+    top:70px;
+    right: 0;
+    text-align: center;
+    transform: rotate(10deg);
+    z-index: 100;
+    pointer-events: all;
+}
+
+.postcards-banner a {
+    color: white;
+    text-decoration: none;
+    background: #c80082;
+    padding: 0.5ex 0 0.3ex;
+    font-size: 27px;
+    transition: font-size 0.2s ease;
+    line-height: 1.3;
+    box-shadow: 8px 8px 0px rgba(0,0,0,.2);
+}
+
+.postcards-banner a:hover {
+    font-size: 30px;
+}
+
+.addresses {
+    margin-bottom: 7em!important;
+    padding-bottom: 3em;
+    border-bottom: 4px solid #eee;
+}
+
+.projects {
+}
+
+.projects .project {
+    display: inline-block;
+    width: 100%;
+    position: relative;
+}
+
+.project .title span {
+    background: black;
+    padding: 5px 5px 2px;
+}
+.project .title {
+    position: absolute;
+    bottom: 1ex;
+    left: 1ex;
+    font-size: 32px;
+    font-family: Fucxed;
+    text-transform: uppercase;
+    color: white;
+}
+
+.project .title .sub {
+    font-size: 24px;
+}
+
+.projects .project img {
+    width: 100%;
+}
+

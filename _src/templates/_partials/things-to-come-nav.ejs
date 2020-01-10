@@ -1,0 +1,73 @@
+<nav class="bottom things-to-come">
+    <% data['things-to-come'].forEach(tp => { %>
+    <a style="background-image: url(/static/images/<%= tp.icon %>); background-color:<%= tp.colors.background %>" href="/<%- page.language %>/<%- {en:'things-to-come', de: 'was-uns-erwartet'}[page.language] %>/<%= tp.key %>.html">
+        <span style="color:<%= tp.colors.background %>;background:<%= tp.colors.text %>"><%= (tp.short || tp.title)[page.language] %></span>
+    </a>
+    <% }) %>
+</nav>
+<style type="text/css">
+
+	nav.things-to-come {
+
+	    flex-wrap: wrap;
+	    max-width: 1200px;
+	    justify-content: space-around;
+	    margin: 2em auto 3em;
+	    text-align: center;
+	}
+
+	nav.things-to-come a {
+	    display: inline-block;
+	    width: 177px;
+	    vertical-align: top;
+	    height: 177px;
+	    box-sizing: border-box;
+	    text-decoration: none;
+	    background-repeat: no-repeat;
+	    background-size: 70%;
+	    margin: 5px;
+	    background-position: center 70%;
+	    transition: transform 0.2s ease;
+	}
+
+	nav.things-to-come a:hover {
+	    transform: rotate(2.5deg);
+	}
+	nav.things-to-come a:nth-child(2n):hover {
+	    transform: rotate(-2.5deg);
+	}
+
+	nav.things-to-come a span {
+	    font-family: Fucxed;
+	    text-transform: uppercase;
+	    text-decoration: none;
+	    font-size: 20px;
+	    padding: 5px;
+	    display: block;
+	}
+
+	@media (max-width: 900px) {
+	    nav.things-to-come {
+	        text-align: left;
+	    }
+	    nav.things-to-come a {
+	        margin: 0 10px 10px 0;
+	    }
+	}
+	@media (max-width: 600px) {
+	    .header {
+	        padding-top: 60px;
+	    }
+	    .postcards-banner {
+	        top: 10px;
+	    }
+	    nav.things-to-come a {
+	        width: 40vw;
+	        height: 40vw;
+	    }
+	    nav.things-to-come a span {
+	        font-size: 4vw;
+	    }
+	}
+
+</style>

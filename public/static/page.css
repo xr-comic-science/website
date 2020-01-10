@@ -1,0 +1,38 @@
+article h1, article h2, article h3 {
+	max-width: 600px;
+	margin-left: auto;
+	margin-right:  auto;
+}
+
+article h2 {
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+article > p, article > ul,article > ol, article > hr, article > blockquote,
+article > div:not(.full-width), article > div:not(.wide) {
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+article hr {
+	border-bottom: 0;
+	border-top: 2px solid #ccc;
+	margin-top: 2em;
+	margin-bottom: 3em;
+}
+html article > .wide {
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+html article > .full-width {
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+footer {
+	margin-top: 3em;
+}

@@ -1,0 +1,30 @@
+{
+  "version": "v1",
+  "users": {},
+  "acls": {
+    "/": {
+      "whitelist_additional_permissions": null,
+      "anonymous_permissions": "read"
+    },
+    "/_src": {
+      "whitelist_additional_permissions": null,
+      "anonymous_permissions": ""
+    },
+    "/Makefile": {
+      "whitelist_additional_permissions": null,
+      "anonymous_permissions": ""
+    },
+    "/readme.txt": {
+      "whitelist_additional_permissions": null,
+      "anonymous_permissions": ""
+    },
+    "/package.json": {
+      "whitelist_additional_permissions": null,
+      "anonymous_permissions": ""
+    },
+    "/package-lock.json": {
+      "whitelist_additional_permissions": null,
+      "anonymous_permissions": ""
+    }
+  }
+}

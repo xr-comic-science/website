@@ -1,0 +1,116 @@
+- key: too-hot-to-live
+  title:
+    de: Zu heiß zum Leben!
+    en: Too Hot To Live!
+  icon: toohot.svg
+  colors:
+    background: '#ffc11e'
+    text: '#dc4f00'
+- key: no-bread-today
+  title:
+    de: Heute kein Brot!
+    en: No Bread Today!
+  icon: nobread.svg
+  colors:
+    background: '#f7ee6a'
+    text: '#DC4F00'
+- key: toxic-lakes
+  title:
+    de: Brandenburg, Land der 3000 giftigen Seen!
+    en: Brandenburg, Land of the 3000 toxic lakes!
+  short:
+    de: Giftige Seen!
+    en: Toxic Lakes!
+  icon: toxiclake.svg
+  colors:
+    background: '#75d0f1'
+    text: '#3860AA'
+- key: climate-refugees
+  short:
+    de: Klimaflüchtlinge
+    en: climate refugees
+  title:
+    de: Irgendwann werden wir alle Klimaflüchtlinge sein!
+    en: Eventually, we will all be climate refugees!
+  icon: refugees.svg
+  colors:
+    background: '#ed9bc4'
+    text: '#3860aa'
+- key: survive-berlin
+  title:
+    de: Berlin überleben
+    en: Survive Berlin
+  icon: berlinheat.svg
+  colors:
+    background: '#d981ac'
+    text: '#f7ee6a'
+    link: '#f7ee6a'
+- key: future-forests
+  title:
+    de: Ein neues Waldsterben?
+    en: Future for Forests?
+  icon: deadforest.svg
+  colors:
+    background: '#83d5f2'
+    text: '#129932'
+    link: '#005e16'
+- key: hot-war
+  title:
+    de: Heißer Krieg!
+    en: Hot War!
+  icon: bomb.svg
+  colors:
+    background: '#75d0f1'
+    text: '#3860aa'
+- key: dry-danube
+  title:
+    de: An der Schönen Trockenen Donau
+    en: The beautiful dry Danube
+  short:
+    de: Trockene Donau
+    en: Dry Danube
+  icon: deadswan.svg
+  colors:
+    background: '#ed9bc4'
+    text: '#C80082'
+- key: mediterranean-desert
+  title:
+    de: Die mediterrane Wüste
+    en: The Mediterranean Desert
+  short:
+    de: Mediterrane Wüste
+    en: Mediterranean Desert
+  icon: desert.svg
+  colors:
+    background: '#f7ee6a'
+    text: '#DC4F00'
+- key: tropical-fevers
+  title:
+    de: Tropenfieber!
+    en: Tropical fevers!
+  icon: malaria.svg
+  colors:
+    background: '#FFC11E'
+    text: '#DC4F00'
+- key: waking-up-death
+  title:
+    de: Wir erwecken den Tod!
+    en: We’re waking up Death!
+  short:
+    de: Tod Erwecken!
+    en: Waking up Death!
+  icon: plague.svg
+  colors:
+    background: '#BED276'
+    text: '#985c9b'
+- key: stay-united
+  title:
+    de: Halten wir zusammen?
+    en: Will we stay united?
+  short:
+    de: zusammen halten?
+    en: stay united?
+  icon: united.svg
+  colors:
+    background: '#83d5f2'
+    text: '#c80082'

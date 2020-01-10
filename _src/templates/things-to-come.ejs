@@ -1,0 +1,100 @@
+<%
+data['things-to-come'].forEach((tp, i) => {
+    if (tp.key === page.file) {
+        page.title = tp.title[page.language];
+        page.background = tp.colors.background || '#ffffff';
+        page.text = tp.colors.text || '#000000';
+        page.link = tp.colors.link || page.text;
+        page.icon = '/static/images/'+tp.icon;
+        page.next = data['things-to-come'][(i+1)%data['things-to-come'].length].key;
+        page.prev = data['things-to-come'][(i-1+data['things-to-come'].length)%data['things-to-come'].length].key;
+        page.translations = Object.keys(tp.title).map(lang => ({
+            language: lang,
+            url: `/${lang}/${{en:'things-to-come', de: 'was-uns-erwartet'}[lang]}/${tp.key}.html`
+        }))
+    }
+});
+%><html>
+<head>
+    <title><%= page.title %></title>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+    <link rel="stylesheet" type="text/css" href="/static/things-to-come.css">
+    <link rel="stylesheet" type="text/css" href="/static/page.css">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Crimson+Text:400,700,400i&display=swap">
+    <meta property="og:type" content= "website" />
+    <meta property="og:url" content="https://xrscience.earth/<%= page.language %>/tipping-points/<%= page.file %>.html"/>
+    <meta property="og:site_name" content="Extinction Rebellion Comic Science" />
+    <meta property="og:image" itemprop="image primaryImageOfPage" content="https://resources.xrscience.earth/02_artwork/01_Icons_tipping_elements/_PNG/toohot.png" />
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:domain" content="xrscience.earth"/>
+    <meta name="twitter:title" property="og:title" itemprop="name" content="<%= page.title %>" />
+    <meta name="twitter:description" property="og:description" itemprop="description" content="<%= page.description %>" />
+    <link rel="shortcut icon" href="/favicon.ico"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.iconmonstr.com/1.3.0/css/iconmonstr-iconic-font.min.css">
+    <style type="text/css">
+        body {
+            background-color: <%= page.background %>;
+            color: <%= page.text %>;
+        }
+        h1 span {
+            color: <%= page.background %>;
+        }
+        h1 span:before {
+            background: <%= page.text %>;
+        }
+        h2, h3 {
+            color: <%= page.text %>;
+        }
+        a, ul.nav li a {
+            color: <%= page.link %>;
+        }
+        strong {
+            color: <%= page.text %>;
+        }
+    </style>
+</head>
+<body class="<%= page.class %>">
+    <div class="bg-image" style="background-image: url(<%= page.icon %>)"></div>
+    <%- include('_partials/header', {page}) %>
+
+    <header style="display: flex; justify-content:space-between; margin: 0 auto; max-width: 900px; text-align: center">
+        <div>
+            <a aria-label="previous page" href="<%= page.prev %>.html"><i class="im im-angle-left"></i></a>
+        </div>
+        <h3 style="margin:0;position: relative;top:-0.3em; flex-grow: 4"><a href="/<%- page.language %>/<%- {en:'things-to-come', de: 'was-uns-erwartet'}[page.language] %>"><%- {en:'Things to come', de: 'Was uns erwartet'}[page.language] %></a></h2>
+        <div>
+            <a aria-label="next page" href="<%= page.next %>.html"><i class="im im-angle-right"></i></a>
+        </div>
+    </header>
+    <article>
+        <h1><span><%- page.title %></span></h1>
+        <div class="intro">
+            <p><%- page.description %></p>
+        </div>
+        <%- body %>
+    </article>
+</div>
+
+<%- include('_partials/things-to-come-nav', {page, data}) %>
+<%- include('_partials/footer', {page}) %>
+    <script>
+(function() {
+
+    window.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('sup.footnote-ref').forEach(function(el) {
+            const link = el.querySelector('a');
+            link.setAttribute('title', '');
+            const fnref = link.getAttribute('href');
+            const div = document.createElement('div');
+            div.innerHTML = document.querySelector(fnref).innerHTML.replace(/<a href="#fnref[^"]*" class="footnote-backref">↩︎<\/a>/g, '');
+            el.setAttribute('title', div.innerText);
+        });
+    });
+
+})();
+
+</script>
+
+</body>
+</html>

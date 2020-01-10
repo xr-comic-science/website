@@ -1,0 +1,15 @@
+<div class="projects grid-3" style="max-width: 1080px; margin: 0 auto 20px">
+	<% data.projects.forEach(project => { %>
+	<div class="project">
+		<a href="/<%- page.language+'/'+project.url %>">
+			<img src="/static/images/<%- project.img %>" />
+			<div class="title">
+				<span><%- project.title %></span>
+				<% if (project.subtitle) { %><br>
+				<span class="sub"><%- project.subtitle %></span>
+				<% } %>
+			</div>
+		</a>
+	</div>
+	<% }) %>
+</div>

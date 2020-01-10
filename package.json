@@ -1,0 +1,36 @@
+{
+  "name": "xr_comicscience.website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "watch 'make' _src",
+    "serve": "serve public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chroma-js": "^2.0.6",
+    "glob": "^7.1.4",
+    "js-yaml": "^3.13.1",
+    "markdown-it": "^9.1.0",
+    "markdown-it-anchor": "^5.2.4",
+    "markdown-it-center-text": "^1.0.4",
+    "markdown-it-container": "^2.0.0",
+    "markdown-it-footnote": "^3.0.2",
+    "markdown-it-indented-quotes": "^1.0.1",
+    "markdown-it-meta": "0.0.1",
+    "markdown-it-sub": "^1.0.0",
+    "markdown-it-sup": "^1.0.0",
+    "markdown-it-table-of-contents": "^0.4.4",
+    "mkdirp": "^0.5.1",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "ejs": "^2.7.1",
+    "serve": "^11.1.0",
+    "watch": "^1.0.2"
+  }
+}
