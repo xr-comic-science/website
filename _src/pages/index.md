@@ -18,7 +18,7 @@ template: index
 
 :::comsci-intro
 
-**XR Comic Science** is group of scientists, designers, writers and illustrators from the [Extinction Rebellion](https://extinctionrebellion.de) movement in Germany. We use images, graphics and text to share scientific facts about the climate crisis. This website documents our past and ongoing projects.
+**XR Comic Science** is a group of scientists, designers, writers and illustrators from the [Extinction Rebellion](https://extinctionrebellion.de) movement in Germany. We use images, graphics and text to share scientific facts about the climate crisis. This website documents our past and ongoing projects.
 
 :::
 
