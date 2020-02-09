@@ -85,7 +85,7 @@ process.argv.slice(2).forEach(pattern => {
         let body = md.render(markdown)
             .replace(/:im-[a-z\-]+:/g, (im) => `<i class="im ${im.substr(1, im.length-2)}"></i>`);
 
-        const out = file.replace('_src/pages/', './public/').replace('.md', '.html');
+        const out = file.replace('_src/pages/', './docs/').replace('.md', '.html');
 	    mkdirp.sync(path.dirname(out));
 
         const meta = {
@@ -116,10 +116,10 @@ process.argv.slice(2).forEach(pattern => {
             if (!Array.isArray(meta.alias)) meta.alias = [meta.alias];
             meta.alias.forEach(url => {
                 ejs.renderFile(`_src/templates/redirect.ejs`,{
-                    url: out.replace('./public/', '/')
+                    url: out.replace('./docs/', '/')
                 })
                     .then(page => {
-                        const redirect = url.replace('/', './public/');
+                        const redirect = url.replace('/', './docs/');
                         mkdirp.sync(path.dirname(redirect));
                         fs.writeFileSync(redirect+'.html', page);
                     });
