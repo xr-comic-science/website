@@ -10,7 +10,7 @@ data['things-to-come'].forEach((tp, i) => {
         page.prev = data['things-to-come'][(i-1+data['things-to-come'].length)%data['things-to-come'].length].key;
         page.translations = Object.keys(tp.title).map(lang => ({
             language: lang,
-            url: `/${lang}/${{en:'things-to-come', de: 'was-uns-erwartet'}[lang]}/${tp.key}.html`
+            url: `/${lang}/${{en:'things-to-come', de: 'was-uns-erwartet', es: 'las-cosas-por-venir', cat:'coses-per-venir'}[lang]}/${tp.key}.html`
         }))
     }
 });
