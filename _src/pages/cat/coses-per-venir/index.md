@@ -10,8 +10,8 @@ translations:
     url: /de/was-uns-erwartet.html
   - language: es
     url: /es/las-cosas-por-venir.html
-  - language: de
-    url: /de/coses-per-venir.html
+  - language: cat
+    url: /cat/coses-per-venir.html
 ---
 
 # The things to come
