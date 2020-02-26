@@ -1,6 +1,6 @@
 <nav class="bottom things-to-come">
     <% data['things-to-come'].forEach(tp => { %>
-    <a style="background-image: url(/static/images/<%= tp.icon %>); background-color:<%= tp.colors.background %>" href="/<%- page.language %>/<%- {en:'things-to-come', de: 'was-uns-erwartet'}[page.language] %>/<%= tp.key %>.html">
+    <a style="background-image: url(/static/images/<%= tp.icon %>); background-color:<%= tp.colors.background %>" href="/<%- page.language %>/<%- {en:'things-to-come', de: 'was-uns-erwartet', es: 'las-cosas-por-venir', cat:'coses-per-venir'}[page.language] %>/<%= tp.key %>.html">
         <span style="color:<%= tp.colors.background %>;background:<%= tp.colors.text %>"><%= (tp.short || tp.title)[page.language] %></span>
     </a>
     <% }) %>
