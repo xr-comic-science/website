@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "watch": "watch 'make' _src",
-    "serve": "serve public",
+    "serve": "serve docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
