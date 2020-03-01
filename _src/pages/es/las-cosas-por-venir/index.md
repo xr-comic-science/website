@@ -1,7 +1,7 @@
 ---
 template: page
 language: en
-title: The things to come
+title: Last cosas por venir
 
 translations:
   - language: en

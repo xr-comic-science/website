@@ -1,26 +1,34 @@
 - key: too-hot-to-live
   title:
-    de: Zu heiß zum Leben!
-    en: Too Hot To Live!
+    de: Zu heiß zum Leben
+    en: Too Hot To Live
+    es: Demasiado caliente para vivir
+    cat: Massa càlid per a viure
   icon: toohot.svg
   colors:
     background: '#ffc11e'
     text: '#dc4f00'
 - key: no-bread-today
   title:
-    de: Heute kein Brot!
-    en: No Bread Today!
+    de: Heute kein Brot
+    en: No Bread Today
+    es: Hoy no hay pan
+    cat: Avui no hi ha pa
   icon: nobread.svg
   colors:
     background: '#f7ee6a'
     text: '#DC4F00'
 - key: toxic-lakes
   title:
-    de: Brandenburg, Land der 3000 giftigen Seen!
-    en: Brandenburg, Land of the 3000 toxic lakes!
+    de: Brandenburg, Land der 3000 giftigen Seen
+    en: Brandenburg, Land of the 3000 toxic lakes
+    es: Brandenburgo, la región de los 3000 lagos tóxicos
+    cat: Brandengurg, Terra dels 3000 llacs tòxics
   short:
-    de: Giftige Seen!
-    en: Toxic Lakes!
+    de: Giftige Seen
+    en: Toxic Lakes
+    es: Lagos Tóxicos
+    cat: Llacs Tòxics
   icon: toxiclake.svg
   colors:
     background: '#75d0f1'
@@ -29,9 +37,13 @@
   short:
     de: Klimaflüchtlinge
     en: climate refugees
+    es: Refugiados Climáticos
+    cat: Refugiades Climàtiques
   title:
-    de: Irgendwann werden wir alle Klimaflüchtlinge sein!
-    en: Eventually, we will all be climate refugees!
+    de: Irgendwann werden wir alle Klimaflüchtlinge sein
+    en: Eventually, we will all be climate refugees
+    es: Al final, todos seremos refugiados climáticos
+    cat: Finalment serem refugiades climàtiques
   icon: refugees.svg
   colors:
     background: '#ed9bc4'
@@ -40,6 +52,8 @@
   title:
     de: Berlin überleben
     en: Survive Berlin
+    es: Supervivencia en Madrid
+    cat: Barcelona Sobreviu
   icon: berlinheat.svg
   colors:
     background: '#d981ac'
@@ -49,6 +63,8 @@
   title:
     de: Ein neues Waldsterben?
     en: Future for Forests?
+    es: ¿Hay futuro para los bosques?
+    cat: Futur per als boscos?
   icon: deadforest.svg
   colors:
     background: '#83d5f2'
@@ -56,8 +72,10 @@
     link: '#005e16'
 - key: hot-war
   title:
-    de: Heißer Krieg!
-    en: Hot War!
+    de: Heißer Krieg
+    en: Hot War
+    es: Guerra Caliente
+    cat: Guerra Càlida
   icon: bomb.svg
   colors:
     background: '#75d0f1'
@@ -66,9 +84,13 @@
   title:
     de: An der Schönen Trockenen Donau
     en: The beautiful dry Danube
+    es:
+    cat: El preciós Danubi sec
   short:
     de: Trockene Donau
     en: Dry Danube
+    es:
+    cat: Danubi Sec
   icon: deadswan.svg
   colors:
     background: '#ed9bc4'
@@ -77,28 +99,38 @@
   title:
     de: Die mediterrane Wüste
     en: The Mediterranean Desert
+    es: El desierto mediterráneo
+    cat: El desert mediterrani
   short:
     de: Mediterrane Wüste
     en: Mediterranean Desert
+    es:
+    cat: Desert mediterrani
   icon: desert.svg
   colors:
     background: '#f7ee6a'
     text: '#DC4F00'
 - key: tropical-fevers
   title:
-    de: Tropenfieber!
-    en: Tropical fevers!
+    de: Tropenfieber
+    en: Tropical fevers
+    es: Fiebres tropicales
+    cat: Febres tropicals
   icon: malaria.svg
   colors:
     background: '#FFC11E'
     text: '#DC4F00'
 - key: waking-up-death
   title:
-    de: Wir erwecken den Tod!
-    en: We’re waking up Death!
+    de: Wir erwecken den Tod
+    en: We’re waking up Death
+    es: Estamos despertando a la muerte
+    cat: Estem despertant a la Mort
   short:
-    de: Tod Erwecken!
-    en: Waking up Death!
+    de: Tod Erwecken
+    en: Waking up Death
+    es: Despertando a la muerte
+    cat: Estem despertant a la Mort
   icon: plague.svg
   colors:
     background: '#BED276'
@@ -107,9 +139,13 @@
   title:
     de: Halten wir zusammen?
     en: Will we stay united?
+    es: ¿Nos mantendremos unidos?
+    cat: Estarem unides?
   short:
     de: zusammen halten?
     en: stay united?
+    es: ¿Mantendremos unidos?
+    cat: Estarem unides?
   icon: united.svg
   colors:
     background: '#83d5f2'
