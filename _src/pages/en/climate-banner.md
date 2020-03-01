@@ -1,6 +1,6 @@
 ---
 template: page
-title: Cliamte banner
+title: Climate banner
 ---
 
 # Climate Banner
