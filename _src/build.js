@@ -47,7 +47,7 @@ let language = 'en';
 
 md.renderer.rules.footnote_block_open = ( page) => (
   '<section class="footnotes">\n' +
-  '<h2>'+({en:'References',de:'Quellenangaben'}[language])+'</h2>\n' +
+  '<h2>'+({en:'References',de:'Quellenangaben',es:'Referencias', cat:'Referències'}[language])+'</h2>\n' +
   '<ol class="footnotes-list">\n'
 );
 
@@ -74,8 +74,7 @@ process.argv.slice(2).forEach(pattern => {
                 }
             });
         }
-
-        language = file.indexOf('/de/') > -1 || file.indexOf('.de.') > -1 ? 'de' : 'en';
+        language = file.split('/')[2] || 'en';
 
         if (file.split('/').slice(1).find(p => p.charAt(0) === '_')) {
             // skip file because it starts with _

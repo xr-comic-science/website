@@ -1,6 +1,6 @@
 ---
 template: page
-language: en
+language: es
 title: Last cosas por venir
 
 translations:
