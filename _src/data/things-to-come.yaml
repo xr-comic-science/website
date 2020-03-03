@@ -22,13 +22,9 @@
   title:
     de: Brandenburg, Land der 3000 giftigen Seen
     en: Brandenburg, Land of the 3000 toxic lakes
-    es: Brandenburgo, la región de los 3000 lagos tóxicos
-    cat: Brandengurg, Terra dels 3000 llacs tòxics
   short:
     de: Giftige Seen
     en: Toxic Lakes
-    es: Lagos Tóxicos
-    cat: Llacs Tòxics
   icon: toxiclake.svg
   colors:
     background: '#75d0f1'
@@ -84,13 +80,9 @@
   title:
     de: An der Schönen Trockenen Donau
     en: The beautiful dry Danube
-    es:
-    cat: El preciós Danubi sec
   short:
     de: Trockene Donau
     en: Dry Danube
-    es:
-    cat: Danubi Sec
   icon: deadswan.svg
   colors:
     background: '#ed9bc4'
@@ -104,7 +96,7 @@
   short:
     de: Mediterrane Wüste
     en: Mediterranean Desert
-    es:
+    es: Desierto mediterráneo
     cat: Desert mediterrani
   icon: desert.svg
   colors:
