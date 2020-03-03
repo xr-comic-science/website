@@ -5,13 +5,14 @@ title: The things to come
 
 translations:
   - language: en
-    url: /en/things-to-come.html
+    url: /en/things-to-come/
   - language: de
-    url: /de/was-uns-erwartet.html
+    url: /de/was-uns-erwartet/
   - language: es
-    url: /es/las-cosas-por-venir.html
+    url: /es/las-cosas-por-venir/
   - language: cat
-    url: /cat/coses-per-venir.html
+    url: /cat/coses-per-venir/
+
 ---
 
 # The things to come
