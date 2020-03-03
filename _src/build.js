@@ -91,7 +91,7 @@ process.argv.slice(2).forEach(pattern => {
         const meta = {
             template: 'page',
             title: '',
-            language: out.substr(9,2),
+            language: out.split('/')[2],
             file: path.basename(file, '.md'),
             ...md.meta
         };
@@ -126,15 +126,19 @@ process.argv.slice(2).forEach(pattern => {
             })
         }
 
-        ejs.renderFile(`_src/templates/${meta.template}.ejs`, {
-            page: meta,
-            body,
-            chroma,
-            data
-        }).then(page => {
+        try {
+            const page = await ejs.renderFile(`_src/templates/${meta.template}.ejs`, {
+                page: meta,
+                body,
+                chroma,
+                data
+            });
             fs.writeFileSync(out, page);
             console.log('wrote', out);
-        });
+        } catch(e) {
+            console.error('error in', file, e);
+            throw e;
+        }
 
     });
 });
