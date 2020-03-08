@@ -46,5 +46,11 @@ That’s it! Enjoy your new banner and spread the science.
 
 You can download the material here if you want to print or adapt the banner
 
-* [Zip archive of PSD files, English and Italian](https://resources.xrscience.earth/projects/climate-banner/psd.zip)
-* [Zip archive of English, French, German, and Italian image files](https://resources.xrscience.earth/projects/climate-banner/jpg-png-pdf-all-langs.zip)
+* [English-large](https://resources.xrscience.earth/projects/climate-banner/files/en-large.zip)
+* [English-small](https://resources.xrscience.earth/projects/climate-banner/files/en-small.zip)
+* [French-large](https://resources.xrscience.earth/projects/climate-banner/files/fr-large.zip)
+* [French-small](https://resources.xrscience.earth/projects/climate-banner/files/fr-small.zip)
+* [German-large](https://resources.xrscience.earth/projects/climate-banner/files/de-large.zip)
+* [German-small](https://resources.xrscience.earth/projects/climate-banner/files/de-small.zip)
+* [Italian-large](https://resources.xrscience.earth/projects/climate-banner/files/it-large.zip)
+* [Italian-small](https://resources.xrscience.earth/projects/climate-banner/files/it-small.zip)
