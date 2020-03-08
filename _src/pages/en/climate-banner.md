@@ -54,3 +54,4 @@ You can download the material here if you want to print or adapt the banner
 * [German-small](https://resources.xrscience.earth/projects/climate-banner/files/de-small.zip)
 * [Italian-large](https://resources.xrscience.earth/projects/climate-banner/files/it-large.zip)
 * [Italian-small](https://resources.xrscience.earth/projects/climate-banner/files/it-small.zip)
+* [Browse Files](https://resources.xrscience.earth/projects/climate-banner/files)
