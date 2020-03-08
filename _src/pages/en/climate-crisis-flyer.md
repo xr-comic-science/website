@@ -39,10 +39,10 @@ One of our illustrators made a comic of the tipping point concept:
 If we were to do this project again, there are a few changes we would make:
 
 - For distribution in German, we should have added an impressum to the printout. This contains with contact details of the people/person responsible for the pamphlet. This is a legal requirement that we missed last time and could have caused some significant problems.
+  - German and English versions of the pamphlet have a space for this impressum, but you will need to add it yourself.
 - In Germany, [Flyeralarm](https://www.flyeralarm.com/de/) is cheaper and generally better than Vistaprint. We'd use Flyeralarm next time.
-  - The required layout for flyeralarm is slightly different from Vistaprint
 - Distribution can be a pain. We'd ship flyers directly to the outreach group if possible.
-- At the very least, let people know that the flyers are being delivered, because otherwise you might spend 10 hours searching headquarters for 40 kilos (90 lb) of  paper which someone else had already moved to an undisclosed staging location across town without telling anyone about it. 🤷‍♀️
+- At the very least, let people know that the flyers are being delivered, because otherwise you may just spend 10 hours searching XR headquarters for 40 kilos (90 lb) of  paper which someone else had already moved to an undisclosed staging location, across town, without informing anyone. 🤷‍♀️
 
 
 ## Project Resources
@@ -63,6 +63,8 @@ If you can, we'd love for people to lay out and design flyers based off of this 
 ### Downloads
 
 You can download the material here if you want to re-print or adapt the flyer:
+
+
 
  * [ZIP archive of InDesign and PDF files, English](https://resources.xrscience.earth/projects/climate-crisis-flyer/indesign/en/1.01/1.01-xr-comsci-climate-crisis-flyer-english-indesign.zip)
  * [ZIP archive of InDesign and PDF files, German](https://resources.xrscience.earth/projects/climate-crisis-flyer/indesign/de/1.01/1.01-xr-comsci-climate-crisis-flyer-german-indesign.zip)
