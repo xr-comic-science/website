@@ -1,7 +1,7 @@
 ---
 template: things-to-come
 description: >
-    This summer temperatures reached 42°C in Germany, and this is just the beginning. Temperatures of 50°C are predicted in Germany by the end of the century. These conditions will make surviving in Berlin a challenge.
+    Aquest estiu les temperatures assoliren 42°C a Alemanya, i això es només el principi. S’esperen temperatures de 50°C per al finals de segle a Alemanya. Aquestes condicions faràn de la supervivència a Berlín tot un repte.
 alias: /en/tipping-points/survive-berlin
 ---
 

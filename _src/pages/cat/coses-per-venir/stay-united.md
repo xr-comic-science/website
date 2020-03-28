@@ -1,7 +1,7 @@
 ---
 template: things-to-come
 description: >
-    As climate crisis unfolds, we will invent more ways to divide ourselves, testing our society's resilience. Living conditions of the marginalised can only worsen under such a future. Divisions in societies and between societies represent risks for unity, especially in a context that requires a global cooperation.
+    A mesura que es desvela la crisi, inventarem noves formes de dividir-nos, provant la nostra resiliència com a societat. Aquest futur només pot empitjorar les condicions de vida de la gra majoria de la població. Les divisions socials representen riscos per a l’unitat, especialment en un context que requereix una cooperació global.
 alias: /en/tipping-points/stay-united
 ---
 
@@ -34,13 +34,13 @@ En conclusió, el col·lapse  mediambiental del nostre planeta també trencarà
 
 [^IPCC2014]: IPCC, 2014, Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, IPCC, Geneva, Switzerland.
 
-[^Kamarck2019]: Brookings Institue: The Challenging Politics of Climate Change 
+[^Kamarck2019]: Brookings Institue: The Challenging Politics of Climate Change
 
 [^Stott2016]: Stott et al, 2016, How climate change affects extreme weather events, Science 352:6293.
 
 [^ Zhai2018]: Zhai, P., Zhou, B. & Chen, Y. J Meteorol Res (2018) 32: 671.
 
-[^Cammack2017]: Understanding the political economy of climate change is vital to tackling it, Overseas Development Institute Opinion 
+[^Cammack2017]: Understanding the political economy of climate change is vital to tackling it, Overseas Development Institute Opinion
 
 [^Abel2019] Abel et al, 2018, Climate, conflict, and Forced Migration, Global Environmental Change, 54:239-249
 
@@ -48,11 +48,11 @@ En conclusió, el col·lapse  mediambiental del nostre planeta també trencarà
 
 [^Panteli2015] Panteli et al, 2015, Influence of extreme weather and climate change on the resilience of power systems: Impacts and possible mitigation strategies, Electric Power Systems Research, 127:259-270
 
-[^EPA2017] Climate Impacts on Transportation | Climate Change Impacts | US EPA 
+[^EPA2017] Climate Impacts on Transportation | Climate Change Impacts | US EPA
 
 [^UNHCR2019] UNHCR - Climate change and disaster displacement
 
-[^Kukal2018] Kukal, M.S., Irmak, S. Climate-Driven Crop Yield and Yield Variability and Climate Change Impacts on the U.S. Great Plains Agricultural Production. Sci Rep 8, 3450 (2018) 
+[^Kukal2018] Kukal, M.S., Irmak, S. Climate-Driven Crop Yield and Yield Variability and Climate Change Impacts on the U.S. Great Plains Agricultural Production. Sci Rep 8, 3450 (2018)
 
 [^Zhang2017] Zhang et al, Economic impacts of climate change on agriculture: The importance of additional climatic variables other than temperature and precipitation, Journal of Environmental Economics and Management 83:8-31
 

@@ -1,7 +1,7 @@
 ---
 template: things-to-come
 description: >
-    Rise of temperatures in Siberia and North America are causing the melting of frozen ground, the Permafrost, and releases long forgotten or unknown infectious microbes threatening our health: Plague, Anthrax, Smallpox, Spanish Flu…
+    L’augment de les temperatures a Siberi ai Nord Amèrica provoquen el desglaç del terra congelat, el Permafrost, i allibera oblidats o desconeguts microbis infecciosos amenaçant la nostra salut: Plaga, Antrax, Verola, la grip espanyola…
 alias: /en/tipping-points/waking-up-death
 ---
 

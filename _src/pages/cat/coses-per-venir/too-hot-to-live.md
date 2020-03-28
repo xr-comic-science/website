@@ -1,7 +1,7 @@
 ---
 template: things-to-come
 description: >
-    In the coming decades, much of the planet will regularly experience *feels-like* temperatures of 55°C. This is beyond the human survivability threshold – meaning most of the planet will become uninhabitable.
+    En les properes dècades, la major part del planeta experimentarà regulament temperatures de 55°C. Aquestes xifres sobrepassen el llindar de la supervivència humana — el que significa que la major part del planeta serà inhabitable.
 alias: /en/tipping-points/too-hot-to-live
 ---
 

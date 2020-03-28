@@ -1,6 +1,6 @@
 ---
 description: >
-    Climate change has already forced many from their homes. As more of the planet becomes uninhabitable due to lack of food and water, rising seas, wildfires, smoke, heat-waves and extreme weather events, everybody is at risk of becoming climate refugees.
+    Moltes persones ja s’han vist obligades a abandonar les seues cases a causa del canvi climàtic. Al mateix temps que el planeta es converteix en inhabitable a causa de la manca d’aliment i aigua, l’augment del nivell del mar, incendis forestals, fum, onades de calor i esdeveniments climàtics extrems, tota la humanitat està sota risc de convertir-se en refugiades climàtiques.
 
 template: things-to-come
 alias: /en/tipping-points/climate-refugees

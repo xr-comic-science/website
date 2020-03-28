@@ -1,7 +1,7 @@
 ---
 template: things-to-come
 description: >
-    The Mediterranean area will be the most affected, in Europe, by Climate Changes. Spain will be affected by years-long drought and its climate is likely to become close to what the Sahara is now. Most of the countries in South Europe will become increasingly uninhabitable!
+    L’àrea mediterrània serà la mes perjudicada, a Europa, per el Canvi Climàtic. Espanya sofrirà anys de sequeres i les prediccions apunten a que el clima s’assemblarà al de l’actual Sàhara. La majoria de països en Europa del Sud es convertiran progressivament en inhabitables!
 alias: /en/tipping-points/mediterranean-desert
 ---
 

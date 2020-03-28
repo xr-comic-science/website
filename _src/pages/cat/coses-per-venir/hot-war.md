@@ -1,7 +1,7 @@
 ---
 template: things-to-come
 description: >
-    A shrinking pie will exacerbate conflict inside and between countries, including nuclear-armed powers. As extreme weather phenomenons amplify, political conflicts will arise over resources scarcity and territorial control. The conditions under which many people live will drastically deteriorate leading to major instabilities.
+    La manca de pastís a repartir incrementarà els conflictes dintre i entre els països, incloent els poders de les armes nuclears. Tan prompte com s’intensifiquen els fenòmens climàtics, els conflictes polítics apareixeran envers la manca de recursos i el control territorial. Les condicions baix les quals moltes persones viuen es deterioraran dràsticament donant lloc a una major inestabilitat.
 alias: /en/tipping-points/hot-war
 ---
 

@@ -1,7 +1,7 @@
 ---
 template: things-to-come
 description: >
-    Germany’s forests are under threat like never before. This year, we have already lost thousands of acres of forest to a combination of heat, drought, storms, forest fires, beetle plagues and a fungi blight. Radical action is required to prevent forest collapse.
+    Els boscos alemanys estan sota amenaça com mai s’havia vist abans. Aquest any hem perdut milers d’hectàrees de bosc per una combinació de calor, sequeres, tempestes, incendis forestals i plagues d’escarbats. Es necessària l’acció radical per a evitar el col.lapse forestal.
 alias: /en/tipping-points/future-forests
 ---
 

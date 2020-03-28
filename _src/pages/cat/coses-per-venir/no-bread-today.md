@@ -1,7 +1,7 @@
 ---
 template: things-to-come
 description: >
-    The future of global food production is under threat, due to rising temperature, droughts, soil erosion, overfishing and other factors. Our capacity to feed the world’s population will be at risk. In 2018 droughts have caused a significant decline in food production in Brandenburg, with further losses expected this year.
+    El futur de la producció alimentaria està sota amenaça, degut a a l’augment de les temperatures, sequeres, erosió del sól i la pesca intensiva entre altres. La nostra capacitat d’alimentar a la població mundial es posarà en risc. Al 2018 les sequeres han causat una reducció significant envers la producció alimentaria en Brandengurg, i s’espera que aquest any continue decreixent la capacitat productiva.
 alias: /en/tipping-points/no-bread-today
 ---
 
@@ -14,7 +14,7 @@ A causa del sobreescalfament del planeta, les sequeres, la degradació del sòl,
 
 Però el problema no té límits i Europa també es veurà afectada. Per exemple, en 2018, les sequeres causaren un significatiu declivi en la producció en Àvila, amb pèrdues xifrades en 100 milions d’euros [^Avila2019]. Però la situació és fa més greu degut a la elevada taxa de desaparició d’insectes, amb una població a punt del col·lapse [^Sanchez2019]. Aquesta pèrdua de diversitat, i en particular de pol·linitzadors fonamentals, debilitarà, si cap encara, més el complexe sistema biològic del quals totes en depenem [^Carrington2019a].
 
-Com si no fos suficient, els bancs globals de pesca també estan sota amenaça per la sobrepesca [^Pinsky2015]. Aquest problema s’intensificarà per l’augment dels nivells de CO2 ja que acidifiquen els oceans, afegit al col·lapse dels esculls de coral i l’amenaça de la proliferació d’algues, ens enfronta a un futur mar estèril. Els sistemes d’aigua dolça, com llacs i rius, també es veurien afectats [^Diaz2019]. Clar i ras, els nostres mars i rius estaran buits, sense vida. 
+Com si no fos suficient, els bancs globals de pesca també estan sota amenaça per la sobrepesca [^Pinsky2015]. Aquest problema s’intensificarà per l’augment dels nivells de CO2 ja que acidifiquen els oceans, afegit al col·lapse dels esculls de coral i l’amenaça de la proliferació d’algues, ens enfronta a un futur mar estèril. Els sistemes d’aigua dolça, com llacs i rius, també es veurien afectats [^Diaz2019]. Clar i ras, els nostres mars i rius estaran buits, sense vida.
 
 Si nosaltres no ens podem alimentar mateixa estarem davant un greu risc. **Sense accions radicals i immediates, la nostra capacitat d’alimentar la població mundial serà seriosament minada**. Les persones famolenques són persones desesperades i en aquest sentit, ens enfrontem a un futur amb possibles conflictes entre la població per lluitar per poder tenir aliments.
 
