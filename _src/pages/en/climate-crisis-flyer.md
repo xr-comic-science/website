@@ -64,12 +64,18 @@ If you can, we'd love for people to lay out and design flyers based off of this 
 
 You can download the material here if you want to re-print or adapt the flyer:
 
+* [Catalan-All_Files.zip](https://resources.xrscience.earth/projects/climate-crisis-flyer/2020-Spring/Catalan-All_Files.zip)
+* [Catalan-PDFs_Only.zip](https://resources.xrscience.earth/projects/climate-crisis-flyer/2020-Spring/Catalan-PDFs_Only.zip)
+* [English-All_Files.zip](https://resources.xrscience.earth/projects/climate-crisis-flyer/2020-Spring/English-All_Files.zip)
+* [English-PDFs_Only.zip](https://resources.xrscience.earth/projects/climate-crisis-flyer/2020-Spring/English-PDFs_Only.zip)
+* [French-All_Files.zip](https://resources.xrscience.earth/projects/climate-crisis-flyer/2020-Spring/French-All_Files.zip)
+* [French-PDFs_Only.zip](https://resources.xrscience.earth/projects/climate-crisis-flyer/2020-Spring/French-PDFs_Only.zip)
+* [German-All_Files.zip](https://resources.xrscience.earth/projects/climate-crisis-flyer/2020-Spring/German-All_Files.zip)
+* [German-PDFs_only.zip](https://resources.xrscience.earth/projects/climate-crisis-flyer/2020-Spring/German-PDFs_only.zip)
+* [Spanish-All_Files.zip](https://resources.xrscience.earth/projects/climate-crisis-flyer/2020-Spring/Spanish-All_Files.zip)
+* [Spanish-PDFs_only.zip](https://resources.xrscience.earth/projects/climate-crisis-flyer/2020-Spring/Spanish-PDFs_only.zip)
 
-
- * [ZIP archive of InDesign and PDF files, English](https://resources.xrscience.earth/projects/climate-crisis-flyer/indesign/en/1.01/1.01-xr-comsci-climate-crisis-flyer-english-indesign.zip)
- * [ZIP archive of InDesign and PDF files, German](https://resources.xrscience.earth/projects/climate-crisis-flyer/indesign/de/1.01/1.01-xr-comsci-climate-crisis-flyer-german-indesign.zip)
- * [SVG trace of tipping points comic](https://resources.xrscience.earth/projects/climate-crisis-flyer/svg/tippingpoints-comic.svg)
- * or [browse all resources for this project](https://resources.xrscience.earth/projects/climate-crisis-flyer)
+* [Or Browse All Files](https://resources.xrscience.earth/projects/climate-crisis-flyer/)
 
 ::: quarter-width
 ![](https://resources.xrscience.earth/projects/climate-crisis-flyer/jpg/en/front-lowres-folded.jpg)
