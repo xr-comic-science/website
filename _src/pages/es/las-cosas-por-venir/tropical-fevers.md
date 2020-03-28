@@ -1,7 +1,7 @@
 ---
 template: things-to-come
 description: >
-    As Earth warms, the range of numerous infectious disease is moving up North, including Europe. Tropical disease such as Malaria, Dengue, Zika, Chikungunya, West Nile Virus… are already becoming a serious health threat for us.
+    Según se caliente la Tierra, un numeroso rango de enfermedades infecciosas se están desplazando al norte, incluyendo Europa. Enfermedades infecciosas como la malaria, el dengue, el zica,  la fiebre de chikunguña,  el virus del Nilo Occidental, ... están empezando a ser un serio problema sanitario que nos afecta a todos.
 alias: /en/tipping-points/topical-fevers
 ---
 

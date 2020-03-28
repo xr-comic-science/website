@@ -1,7 +1,7 @@
 ---
 template: things-to-come
 description: >
-    A shrinking pie will exacerbate conflict inside and between countries, including nuclear-armed powers. As extreme weather phenomenons amplify, political conflicts will arise over resources scarcity and territorial control. The conditions under which many people live will drastically deteriorate leading to major instabilities.
+    Con un "pastel a repartir" en disminución se exacerbarán los conflictos dentro y entre los países, incluyendo los que tienen arsenal nuclear. Según se amplifiquen los fenómenos meteorológicos extremos, aparecerán conflictos políticos relacionados con la escasez de recursos y el control territorial. Las condiciones de vida de muchas personas se deteriorarán drásticamente conduciendo a una mayor inestabilidad.
 alias: /en/tipping-points/hot-war
 ---
 

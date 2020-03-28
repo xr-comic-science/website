@@ -1,7 +1,7 @@
 ---
 template: things-to-come
 description: >
-    This summer temperatures reached 42°C in Germany, and this is just the beginning. Temperatures of 50°C are predicted in Germany by the end of the century. These conditions will make surviving in Berlin a challenge.
+    Este verano las temperaturas alcanzaron los 47.3ºC en España, y esto sólo es el principio. Se pronostican temperaturas de 50ºC en España para el final del siglo. En estas condiciones sobrevivir en Madrid será todo un reto.
 alias: /en/tipping-points/survive-berlin
 ---
 

@@ -1,7 +1,7 @@
 ---
 template: things-to-come
 description: >
-    The Mediterranean area will be the most affected, in Europe, by Climate Changes. Spain will be affected by years-long drought and its climate is likely to become close to what the Sahara is now. Most of the countries in South Europe will become increasingly uninhabitable!
+    La región mediterránea será la más afectada en Europa por el cambio climático. España sufrirá sequías de varios años y su clima probablemente pasará a ser similar al del actual Sáhara. La mayoría de los países del sur de Europa se convertirán paulatinamente en inhabitables.
 alias: /en/tipping-points/mediterranean-desert
 ---
 
@@ -14,7 +14,7 @@ Los niveles en aumento de CO2 están causando una alteración significativa en e
 
 Ciudades como Sevilla, Lisboa, Granada, Palermo, Atenas, etc. se han desarrollado por miles de años en un determinado clima, pero si el calentamiento global continúa al ritmo actual, estas ciudades estarán en la mitad de un desierto para el final del siglo y sus economías colapsarán[^Skibba2016]. Para evitar la desertificación de la región mediterránea, el calentamiento global debe mantenerse por debajo del 1.5º C [^Guiot2016]. Pero al ritmo actual de las emisiones de CO2 este valor se alcanzará a finales del 2027 [^co2budget]. Se requieren, por tanto, cuantiosos e inmediatos recortes en las emisiones de CO2. Sin embargo, actualmente estamos de camino a alcanzar 2º C de calentamiento en 2050 y al menos 4º C al final del siglo [^IPCC2014].
 
-Parar las emisiones de CO2 y permanecer por debajo de los 1.5º C de calentamiento es todavía posible. La desertificación del Mediterráneo puede ser evitada. **¡Necesitamos actuar ya!** 
+Parar las emisiones de CO2 y permanecer por debajo de los 1.5º C de calentamiento es todavía posible. La desertificación del Mediterráneo puede ser evitada. **¡Necesitamos actuar ya!**
 
 <!-- ## References -->
 

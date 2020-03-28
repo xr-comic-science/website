@@ -1,7 +1,7 @@
 ---
 template: things-to-come
 description: >
-    In the coming decades, much of the planet will regularly experience *feels-like* temperatures of 55°C. This is beyond the human survivability threshold – meaning most of the planet will become uninhabitable.
+    En las décadas venideras la mayoría del planeta experimentará habitualmente temperaturas alrededor de los 55ºC. Este valor esta por encima del umbral de la supervivencia, lo que significa que la mayor parte del planeta será inhabitable.
 alias: /en/tipping-points/too-hot-to-live
 ---
 
@@ -13,7 +13,7 @@ Pero la temperatura es sólo una de las caras de la moneda, la otra es la humeda
 
 La potente combinación entre calor y humedad, ambos incrementándose debido a las emisiones de CO2, genera mortíferas olas de calor. Cuando la sensación térmica se eleva por encima de los 40º C hay un alto riesgo de golpes de calor, calambres y agotamiento, lo que amenaza la vida de muchas personas, especialmente enfermos, ancianos, niños y mujeres embarazadas. Cuando la sensación térmica se eleva por encima de los 55º C, incluso los más sanos no son capaces de sobrevivir más allá de un par de horas. Japón no estuvo lejos de este umbral el pasado verano. Con la humedad que hubo, apenas 3º C más es suficiente, y es sólo cuestión de tiempo que estas temperaturas máximas se empiecen a dar de modo regular.
 
-A nivel global, los últimos 5 veranos han sido los más calurosos. En particular Junio de 2019 ha sido el peor jamás registrado [^NOAADATA]. Y esto es sólo el comienzo. Actualmente el calentamiento global es de 1º C, y estamos de camino a alcanzar 1.5º C en 2030. Y a este ritmo alcanzaremos en 2050 el umbral de 2º C, **aquel que en su momento se estableció como el límite que no debería sobrepasarse para el final de la centuria [^IPCCsr15]**. Sin un cambio drástico nos encontramos de camino a alcanzar las apocalípticas cifras de aumento de 4º C a 6º C para 2100. 
+A nivel global, los últimos 5 veranos han sido los más calurosos. En particular Junio de 2019 ha sido el peor jamás registrado [^NOAADATA]. Y esto es sólo el comienzo. Actualmente el calentamiento global es de 1º C, y estamos de camino a alcanzar 1.5º C en 2030. Y a este ritmo alcanzaremos en 2050 el umbral de 2º C, **aquel que en su momento se estableció como el límite que no debería sobrepasarse para el final de la centuria [^IPCCsr15]**. Sin un cambio drástico nos encontramos de camino a alcanzar las apocalípticas cifras de aumento de 4º C a 6º C para 2100.
 
 ### Global Land Temperature Anomalies
 

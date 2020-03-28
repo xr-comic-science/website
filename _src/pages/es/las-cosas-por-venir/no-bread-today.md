@@ -1,7 +1,7 @@
 ---
 template: things-to-come
 description: >
-    The future of global food production is under threat, due to rising temperature, droughts, soil erosion, overfishing and other factors. Our capacity to feed the world’s population will be at risk. In 2018 droughts have caused a significant decline in food production in Brandenburg, with further losses expected this year.
+    El futuro de la producción global de alimentos está en riesgo, debido a las temperaturas en aumento, las sequías, la erosión del suelo, la sobrepesca y otros factores. Por ejemplo, en 2018 las sequías causaron una reducción significativa de la producción de alimentos en Brandenburgo, y se esperan mayores pérdidas en los próximos años.
 alias: /en/tipping-points/no-bread-today
 ---
 

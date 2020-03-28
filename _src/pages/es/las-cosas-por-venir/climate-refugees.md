@@ -1,14 +1,13 @@
 ---
 description: >
-    Climate change has already forced many from their homes. As more of the planet becomes uninhabitable due to lack of food and water, rising seas, wildfires, smoke, heat-waves and extreme weather events, everybody is at risk of becoming climate refugees.
-
+    El cambio climático ya ha forzado a muchos a dejar sus hogares. Y eran más cuando más zonas del planeta sean inhabitables por la falta de comida y agua, el aumento del nivel del mar,  incendios forestales, olas de calor, fenómenos meteorológicos extremos, etc. Todo el mundo está en riesgo de convertirse en un refugiado climático.
 template: things-to-come
 alias: /en/tipping-points/climate-refugees
 ---
 
 ::: long
 
-Para la mayoría de los europeos, el cambio climático a empezado apenas a mostrar su cara. Hemos experimentado olas de calor sin precedentes y hemos visto el impacto de la sequía en nuestros bosques, ríos y cosechas. Estamos siendo testigos de la desaparición de la vida salvaje y notamos extraños cambios en las estaciones del año. Sin embargo, mucha gente alrededor del mundo ha sentido efectos aún más devastadores. El cambio climático es ya tan intenso que no es posible resistir más y se han visto forzados a dejar sus hogares [^Rigaud2018].   
+Para la mayoría de los europeos, el cambio climático a empezado apenas a mostrar su cara. Hemos experimentado olas de calor sin precedentes y hemos visto el impacto de la sequía en nuestros bosques, ríos y cosechas. Estamos siendo testigos de la desaparición de la vida salvaje y notamos extraños cambios en las estaciones del año. Sin embargo, mucha gente alrededor del mundo ha sentido efectos aún más devastadores. El cambio climático es ya tan intenso que no es posible resistir más y se han visto forzados a dejar sus hogares [^Rigaud2018].
 
 Desde el año 2000, habitantes de los países más pobres han muerto por diferentes desastres, muchos de ellos relacionados con el clima, a un nivel 7 veces mayor que en los países ricos [^UNnews2018]. Sólo en 2018, amenazas relacionadas con el calentamiento global, incluyendo tormentas, ciclones, inundaciones, incendios forestales y deslizamiento de tierras, has desplazado alrededor de 16 millones de personas[^Maram2019]. Pero esto son sólo número abstractos. **Detrás de cada una de estas personas hay una historia de perdida y peligro, seres humanos desesperados dejando sus hogares y poniendo todo en riesgo para encontrar algo de seguridad**. En el este de África, por ejemplo, las alternativas entre las que elegir son emigración o inanición para unos 11 millones de personas[^Oxfam]. No hay otras alternativas.
 
