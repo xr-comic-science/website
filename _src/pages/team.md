@@ -12,8 +12,10 @@ template: index
 
 ## Albert Carter
 
-:::grid-1
-![](https://resources.xrscience.earth/website/our-team/albert.jpg)
+::: grid-3 wide
+
+![[drawing of Albert Carter](https://resources.xrscience.earth/website/our-team/albert.jpg)](https://resources.xrscience.earth/website/our-team/albert.jpg)
+
 :::
 
 
@@ -21,17 +23,20 @@ Comic Science founder, and coordinator. Albert coordinates administrative tasks,
 
 ## Pieter Vandromme
 
-:::grid-1
-![](https://resources.xrscience.earth/website/our-team/pieter.jpg)
-:::
+::: grid-3 wide
 
+![[drawing of Pieter Vandromme](https://resources.xrscience.earth/website/our-team/pieter.jpg)](https://resources.xrscience.earth/website/our-team/pieter.jpg)
+
+:::
 
 Joined Comic Science during the Summer of 2019. Pieter is helping on different projects, on science communication and helps the team to grow. Originally a marine ecology researcher, Pieter is now working as a data scientist.
 
 ## Kirstie Adamson
 
-:::grid-1
-![](https://resources.xrscience.earth/website/our-team/kirstie.jpg)
+::: grid-3 wide
+
+![[drawing of Kirstie Adamson](https://resources.xrscience.earth/website/our-team/kirstie.jpg)](https://resources.xrscience.earth/website/our-team/kirstie.jpg)
+
 :::
 
 
@@ -39,19 +44,22 @@ Kirstie has produced all manner of visual communication for the group. She is pa
 
 ## Martin Fahy
 
-:::grid-1
-![](https://resources.xrscience.earth/website/our-team/martin.jpg)
-:::
+::: grid-3 wide
 
+![[drawing of Martin Fahy](https://resources.xrscience.earth/website/our-team/martin.jpg)](https://resources.xrscience.earth/website/our-team/martin.jpg)
+
+:::
 
 Martin helps with administration of the group and does some writing and proofreading on projects. He has a background in conservation and wildlife rehabilitation.
 
+
 ## Claire Chéry
 
-:::grid-1
-![](https://resources.xrscience.earth/website/our-team/claire.jpg)
-:::
+::: grid-3 wide
 
+![[drawing of Claire Chéry](https://resources.xrscience.earth/website/our-team/claire.jpg)](https://resources.xrscience.earth/website/our-team/claire.jpg)
+
+:::
 
 Joined Comic Science early 2020. Claire can produce all kinds of visual design and is happy to deal with layout and typefaces as well. Outside of her ecological commitments and activities, she runs, more or less intensively depending on the weather.
 
