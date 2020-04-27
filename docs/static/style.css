@@ -42,6 +42,7 @@ article {
 article > h1,
 article > h2,
 article > p,
+article > ul,
 article > div:not(.full-width),
 article > .yellow,
 article > .addresses,
