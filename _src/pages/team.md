@@ -19,7 +19,7 @@ template: index
 :::
 
 
-Comic Science founder, and coordinator. Albert coordinates administrative tasks, outreach, and strategic vision for the group. Outside of activism, you can find him writing code (Python and Clojure), running, bicycling, and playing in the park in Berlin, Germany, and  Nijmegen, Netherlands.
+Comic Science founder, and coordinator, [Albert](https://albertrcarter.com) coordinates administrative tasks, outreach, and strategic vision for the group. Outside of activism, you can find him writing code (Python and Clojure), running, bicycling, and playing in the park in Berlin, Germany, and  Nijmegen, Netherlands.
 
 ## Pieter Vandromme
 
