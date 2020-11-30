@@ -88,6 +88,6 @@ You can download the material here if you want to re-print or adapt the flyer:
 
 ## Related projects
 
-* The **[Things To Come](/en/things-to-come)** was meant to provide more detailed backgrounds on each of the consequences we highlighed in this flyer.
-* Likewise the **[Why we need to rebel](/en/why-we-rebel)** project featured a much longer version of the text from the flyer and dozens of references
-* The **[Postcards](https://xrscience.earth/en/postcards.html)** project featured text similar to the flyer.
+* The **[Things To Come](/en/things-to-come.html)** was meant to provide more detailed backgrounds on each of the consequences we highlighed in this flyer.
+* Likewise the **[Why we need to rebel](/en/why-we-rebel.html)** project featured a much longer version of the text from the flyer and dozens of references
+* The **[Postcards](/en/postcards.html)** project featured text similar to the flyer.

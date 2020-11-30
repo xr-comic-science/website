@@ -62,7 +62,12 @@ If we were to do this again, we might:
 
 :::
 
-* [ZIP file with all PSD and InDesign sources](/static/downloads/xrpostcard_english.zip)
+* [ZIP File with English PSD and InDesign Files](https://resources.xrscience.earth/03_print/02_postcards/02_english.zip)
+* [ZIP File with German PSD and InDesign Files](https://resources.xrscience.earth/03_print/02_postcards/01_german.zip)
+* [Browseable Files](https://resources.xrscience.earth/03_print/02_postcards/)
 
 
 ## Related projects
+ 
+* The **[Things To Come](/en/things-to-come.html)** project is meant to provide more detailed backgrounds on each of the consequences we highlighed in this flyer.
+* The **[Flyer](/en/climate-crisis-flyer.html)** project features text similar to the postcards.
