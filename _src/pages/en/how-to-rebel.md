@@ -24,7 +24,7 @@ The actions grouped into the following categories:
 
 ## Brush Actions: Creating a Counterculture
 
-Brush-Actions are all about creating a counterculture and placing disobedient art in public. Did you witness one? Post it on Instagram and tag it with **[#rebellionbrush](https://www.instagram.com/explore/tags/rebellionbrush/)**. For legal info check the [XR Rechtshilfebroschüre](https://extinctionrebellion.de/documents/43/Rechtshilfebroschüre20190908.pdf)
+Brush-Actions are all about creating a counterculture and placing disobedient art in public. Did you witness one? Post it on Instagram and tag it with **[#rebellionbrush](https://www.instagram.com/explore/tags/rebellionbrush/)**.
 
 *Hover or tap-hold on the images to read more.*
 
