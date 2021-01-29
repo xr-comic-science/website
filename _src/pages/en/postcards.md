@@ -64,6 +64,7 @@ If we were to do this again, we might:
 
 * [ZIP File with English PSD and InDesign Files](https://resources.xrscience.earth/03_print/02_postcards/02_english.zip)
 * [ZIP File with German PSD and InDesign Files](https://resources.xrscience.earth/03_print/02_postcards/01_german.zip)
+* [Chinese PDF Files](https://resources.xrscience.earth/03_print/02_postcards/03_chinese.pdf)
 * [Browseable Files](https://resources.xrscience.earth/03_print/02_postcards/)
 
 
