@@ -47,7 +47,7 @@ let language = 'en';
 
 md.renderer.rules.footnote_block_open = ( page) => (
   '<section class="footnotes">\n' +
-  '<h2>'+({en:'References',de:'Quellenangaben',es:'Referencias', cat:'Referències'}[language])+'</h2>\n' +
+  '<h2>'+({en:'References',de:'Quellenangaben',es:'Referencias', cat:'Referències', it:'Fonti'}[language])+'</h2>\n' +
   '<ol class="footnotes-list">\n'
 );
 
