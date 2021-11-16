@@ -12,6 +12,8 @@ translations:
     url: /es/las-cosas-por-venir/
   - language: cat
     url: /cat/coses-per-venir/
+  - language: it
+    url: /it/cosa-aspettarsi/
 
 ---
 
