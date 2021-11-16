@@ -4,6 +4,7 @@
     en: Too Hot To Live
     es: Demasiado caliente para vivir
     cat: Massa càlid per a viure
+    it: Troppo Caldo per Vivere
   icon: toohot.svg
   colors:
     background: '#ffc11e'
@@ -14,6 +15,7 @@
     en: No Bread Today
     es: Hoy no hay pan
     cat: Avui no hi ha pa
+    it: Oggi Niente Pane
   icon: nobread.svg
   colors:
     background: '#f7ee6a'
@@ -25,6 +27,7 @@
   short:
     de: Giftige Seen
     en: Toxic Lakes
+    it: Laghi Tossici
   icon: toxiclake.svg
   colors:
     background: '#75d0f1'
@@ -35,11 +38,13 @@
     en: climate refugees
     es: Refugiados Climáticos
     cat: Refugiades Climàtiques
+    it: Rifugiati Climatici
   title:
     de: Irgendwann werden wir alle Klimaflüchtlinge sein
     en: Eventually, we will all be climate refugees
     es: Al final, todos seremos refugiados climáticos
     cat: Finalment serem refugiades climàtiques
+    it: Saremo tutti rifugiati climatici, prima o poi
   icon: refugees.svg
   colors:
     background: '#ed9bc4'
@@ -50,6 +55,7 @@
     en: Survive Berlin
     es: Supervivencia en Madrid
     cat: Barcelona Sobreviu
+    it: Sopravvivere a Roma
   icon: berlinheat.svg
   colors:
     background: '#d981ac'
@@ -61,6 +67,7 @@
     en: Future for Forests?
     es: ¿Hay futuro para los bosques?
     cat: Futur per als boscos?
+    it: Quale Futuro per le Foreste?
   icon: deadforest.svg
   colors:
     background: '#83d5f2'
@@ -72,6 +79,7 @@
     en: Hot War
     es: Guerra Caliente
     cat: Guerra Càlida
+    it: Guerre Bollenti
   icon: bomb.svg
   colors:
     background: '#75d0f1'
@@ -80,9 +88,11 @@
   title:
     de: An der Schönen Trockenen Donau
     en: The beautiful dry Danube
+    it: Il Po' a secco
   short:
     de: Trockene Donau
     en: Dry Danube
+    it: Po' Prosciugato
   icon: deadswan.svg
   colors:
     background: '#ed9bc4'
@@ -93,11 +103,13 @@
     en: The Mediterranean Desert
     es: El desierto mediterráneo
     cat: El desert mediterrani
+    it: Il Deserto Mediterraneo
   short:
     de: Mediterrane Wüste
     en: Mediterranean Desert
     es: Desierto mediterráneo
     cat: Desert mediterrani
+    it: Deserto Mediterraneo
   icon: desert.svg
   colors:
     background: '#f7ee6a'
@@ -108,6 +120,7 @@
     en: Tropical fevers
     es: Fiebres tropicales
     cat: Febres tropicals
+    it: Malattie tropicali
   icon: malaria.svg
   colors:
     background: '#FFC11E'
@@ -118,11 +131,13 @@
     en: We’re waking up Death
     es: Estamos despertando a la muerte
     cat: Estem despertant a la Mort
+    it: Stiamo risvegliando le Piaghe
   short:
     de: Tod Erwecken
     en: Waking up Death
     es: Despertando a la muerte
     cat: Estem despertant a la Mort
+    it: Risvegliando le Piaghe
   icon: plague.svg
   colors:
     background: '#BED276'
@@ -133,11 +148,13 @@
     en: Will we stay united?
     es: ¿Nos mantendremos unidos?
     cat: Estarem unides?
+    it: Resteremo Uniti?
   short:
     de: zusammen halten?
     en: stay united?
     es: ¿Mantendremos unidos?
     cat: Estarem unides?
+    it: Restiamo Uniti?
   icon: united.svg
   colors:
     background: '#83d5f2'
